@@ -6,5 +6,8 @@ Requirements :
 - pip install pyodbc
 
 First, give the type of the database 
+<img src = "img/pic2.PNG">
+
 
 Then give some extra information for connection 
+<img src = "img/tempsnip.png" >
